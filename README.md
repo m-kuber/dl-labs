@@ -1,4 +1,3 @@
-# dl-labs
 # List of Assignments
 
 ## Assignment 1
